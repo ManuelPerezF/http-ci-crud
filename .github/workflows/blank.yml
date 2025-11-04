@@ -19,7 +19,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/http-ci-crud
+  IMAGE_NAME: ghcr.io/manuelperezf/http-ci-crud:latest
 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
